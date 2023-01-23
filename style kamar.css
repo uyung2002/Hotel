@@ -1,0 +1,52 @@
+#background{
+    margin-top:-120px;
+    background:url(./gambar/kamar\ 3.jpg);
+    background-size:cover;
+    padding-top:111px;
+    height: 638px;
+    max-height: 1112px;
+   
+}
+#background .jumbotron{
+    background:none;
+    margin-left:300px;
+    max-width:1000px;
+    margin-top:22px;
+}
+#background .jumbotron h1{
+    font-family:nexa;
+    color:black;
+    margin-bottom: -12px;
+    
+}
+#background .jumbotron p{
+    font-family:raleway;
+    color:black;
+    margin-bottom:-12px;
+    margin-top:27px;
+    padding-right:307px;
+}
+
+.home{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.container-atas h1{
+    margin: 36px;
+}
+
+.row{
+    margin: -10px;
+}
+
+.isi{
+    background-color: #fff;
+    margin-top: -150px;
+    padding-bottom: 37px;
+}
+
+.galeri-hotel h5{
+    text-align:center;
+}
